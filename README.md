@@ -45,7 +45,7 @@
 </p>
 
 ### Built With
-![Dunst](https://img.shields.io/badge/Dunst-ffffff?logo=freedesktopdotorg&style=flat&color=777777&logoColor=ffffff)<br />
+![Dunst](https://img.shields.io/badge/Dunst-ffffff?logo=freedesktopdotorg&style=for-the-badge&color=777777&logoColor=ffffff)<br />
 <!-- add_built_with -->
 
 
@@ -59,7 +59,7 @@
 <p>Before getting started, ensure that your system meets all the necessary requirements to run this project smoothly. Below is a list of prerequisites that need to be installed.</p>
 
 <ul>
-	<li>dunst >= 1.12.1-1</li>
+    <li>dunst >= 1.12.1-1</li>
     <!-- add_prerequisites -->
 </ul>
 
